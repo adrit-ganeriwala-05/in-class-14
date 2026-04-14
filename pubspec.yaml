@@ -14,7 +14,6 @@ dependencies:
   # Firebase Cloud Messaging - the main package for this activity
   firebase_messaging: ^14.7.19
   # Local notifications - used to show foreground notifications on Android
-  flutter_local_notifications: ^16.3.2
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
